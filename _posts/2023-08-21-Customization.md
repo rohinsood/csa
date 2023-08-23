@@ -3,6 +3,8 @@ toc: true
 comments: true
 layout: post
 title: Customization Hacks
+courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 0} }
+type: hacks
 ---
 
 ## Refactor Project Structure
