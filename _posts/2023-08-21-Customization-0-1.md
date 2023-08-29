@@ -2,9 +2,9 @@
 toc: true
 comments: true
 layout: post
-title: Customization Hacks
+title: Customization Weeks 0-1
 courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 0} }
-type: hacks
+type: help
 ---
 
 ## Refactor Project Structure
