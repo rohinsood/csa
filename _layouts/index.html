@@ -4,11 +4,12 @@
 {%- include head.html -%}
 
 <body>
-  
   <div class="wrapper">
+    
     {%- include header.html -%}
 
-    <section>
+    <div style="padding-top: 25px">
+
       {{ content }}
 
       {% if site.paginate %}
@@ -81,7 +82,7 @@
       {%- endif %}
   
       {%- endif -%}
-    </section>
+    </div>
   </div>
 </body>
 

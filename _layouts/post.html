@@ -6,14 +6,13 @@
 <body>
   <div class="wrapper">
     {%- include header.html -%}
-    
-    <section>
 
+    <div class="body-wrapper">
       <div class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}
           • {% include read_time.html -%}
         </h1>
-  
+
         <p class="post-meta post-meta-title">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -34,7 +33,7 @@
           {% endfor %}
           {%- endif %}
         </p>
-  
+
         {%- if page.description -%}
         <h2>Description</h2>
         {%- if site.html_escape.description -%}
@@ -43,8 +42,8 @@
         <p class="page-description">{{ page.description }}</p>
         {%- endif -%}
         {%- endif -%}
-  
-  
+
+
         {% if page.categories.size > 0 and site.show_tags %}
         <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i>
           {% for category in page.categories %}
@@ -63,8 +62,8 @@
       <div class="post-content e-content" style="position: relative; margin-top: 50px;">
         {{ content | toc }}
       </div>
-    </section>
-
+    </div>
+  </div>
 
   </div>
 
@@ -77,3 +76,9 @@
 </body>
 
 </html>
+
+<style>
+  .body-wrapper {
+    margin-top: 25px;
+  }
+</style>
