@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Week 2 Review Ticket
 type: ticket
-courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 2} }
+courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 1} }
 ---
 
 # [Week 2 Plan](https://rohinsood.github.io/csa/2023/08/29/Week-2-Plans.html)

@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Customization Week 2
-courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 2} }
+courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 1} }
 type: help
 ---
 
