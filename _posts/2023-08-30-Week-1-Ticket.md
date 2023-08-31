@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Week 2 Review Ticket
+title: Week 1 Review Ticket
 type: ticket
 courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 1} }
 ---
