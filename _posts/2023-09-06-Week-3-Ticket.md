@@ -7,9 +7,9 @@ type: ticket
 courses: { csa: {week: 3} }
 ---
 
-# [Week 2 Plan](https://rohinsood.github.io/csa/2023/08/29/Week-2-Plans.html)
-- ## [JS Output API](https://rohinsood.github.io/csa/2023/09/13/JS_Output_API_IPYNB_2_.html)
+# [Week 3 Plan](https://rohinsood.github.io/csa//2023/09/04/Week-3-Plans.html)
+- ## [JS Output API w/Objects](https://rohinsood.github.io/csa/2023/09/13/JS_Output_API_IPYNB_2_.html)
 - ## [JS Output Jquery](https://rohinsood.github.io/csa/2023/09/13/JS_Output_API_IPYNB_2_.html)
-- ## [JS Hacks (Option 2)](https://rohinsood.github.io/csa/2023/08/28/Customization-2.html)
-- Supplemental Items
- - ## [Canvas Graph Generation]()
+- ## [JS Hacks (Option 2)](https://rohinsood.github.io/csa//2023/09/06/JS-Option-2_IPYNB_2_.html)
+- ### Supplemental Items
+ - ### [Canvas Graph Generation](https://rohinsood.github.io/csa//2023/09/06/Canvas-Graph-Gen.html)
