@@ -8,7 +8,7 @@ courses: { csa: {week: 5} }
 ---
 
 
-# Panel
+# Panel Members
 - Collin: Mechanical Engnineering and CS @ UCSD
 - Tristan: Computer Science @ Miramar, Currently has a job @ LG
 - Mabel: CS @ UCSD
@@ -27,4 +27,4 @@ courses: { csa: {week: 5} }
 8. Develop a professional online presence through a personal website. This platform effectively communicates your experiences, projects, and areas of expertise to both employers and peers.
 
 # Reflection
-From attending this panel, I learned that, in computer science, success is contingent on a combination of foundational academic preparation, practical skills development through personal projects and coding involvement, proactive engagement with potential employers, and the adept use of tools and online presence to communicate one's expertise. The insights shared by Collin, Tristan, Mabel, and Anthony provided a practical roadmap for pursuing a career in computer science. The emphasis on taking CSP and CSA to prepare for a major in this field is clear. It's apparent that competition is fierce, even for entry into UCSD. Extracurricular involvement in coding, preferably with teaching experience like Anthony's at CodeNinjas, is a notable advantage. Projects are essential for standing out, as Tristan's experience with LG demonstrates. Cold outreach to employers is a viable strategy. Familiarity with tools and deployment platforms like Vercel and SvelteKit is highly valued. Lastly, a personal website is a must to showcase expertise and projects. I've already started on a few of these--like participating in CS-related internships, or having a personal website--and I'm excited to continue with my journey into the world of computer science. 
+This panel helped me to understand the broader perspective on pursuing a career in computer science. These professionals underscored the importance of rigorous preparation, such as taking CSP and CSA courses. They also highlighted the competitive nature of the field, emphasizing the need to explore various college options. In terms of extracurricular activities, involvement in coding and teaching roles was deemed advantageous. Building personal projects and a strong online presence through a personal website emerged as crucial steps in standing out to potential employers. Additionally, the panel emphasized the value of proactive outreach to secure internships and highlighted the significance of mastering relevant tools and deployment platforms. These overarching insights provide valuable guidance for navigating the path to a successful career in computer science. I'm glad to hear that a few of the things they mentioned are activates that I am already taking part in: teaching software in robotics, participating in CS-related internships, and having a personal website. I'm excited to continue my journey in the world of computer sciences in high school and beyond.
