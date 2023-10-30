@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Spring Notes
 type: help
-courses: { csa: {week: 10} }
+courses: { csa: {week: 9} }
 ---
 
 # Key Concepts in Assignment Development

@@ -2,8 +2,8 @@
 toc: true
 comments: true
 layout: post
-title: Installations Hacks
-courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 1} }
+title: Installations Notes
+courses: { csa: {week: 1} }
 type: hacks
 ---
 # VSCode, GitHub Pages Setup

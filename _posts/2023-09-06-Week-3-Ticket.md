@@ -2,9 +2,9 @@
 toc: true
 comments: true
 layout: post
-title: Week 3 Review Ticket
+title: Week 4 Review Ticket
 type: ticket
-courses: { csa: {week: 3} }
+courses: { csa: {week: 4} }
 ---
 
 # [Week 3 Plan](https://rohinsood.github.io/csa//2023/09/04/Week-3-Plans.html)

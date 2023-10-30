@@ -2,11 +2,10 @@
 toc: true
 comments: true
 layout: post
-title: Extra Credit
-type: help
+title: Panel Extra Credit
+type: ticket
 courses: { csa: {week: 5} }
 ---
-
 
 # Panel Members
 - Collin: Mechanical Engnineering and CS @ UCSD
