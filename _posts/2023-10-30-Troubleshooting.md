@@ -55,7 +55,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 - Faced a 500 Internal Server Error when trying to retrieve a list of assignments from the backend using the `/getAllAssignments` endpoint.
 - Investigated the backend code to identify potential issues and ensured the database contains the expected data.
 - Modified the backend code to return the list of assignments as a JSON response.
-- Removed unnecessary response maps and returned the assignments directly.
+- Removed unnecessary response maps and returned the assignments directly.t
 
 ```java
 @GetMapping(value="/getAllAssignments", produces = "application/json")
