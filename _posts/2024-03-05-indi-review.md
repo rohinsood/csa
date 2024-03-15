@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Individual Review
 type: ticket
-courses: { csa: {week: 24 }
+courses: { csa: {week: 24} }
 ---
 
 # Individual Progress
