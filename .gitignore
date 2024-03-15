@@ -5,3 +5,4 @@ nohup.out
 Gemfile.lock
 *.pyc
 *.scssc
+./git-rw
